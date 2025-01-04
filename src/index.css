@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  
+  color: aliceblue;
+}
+body{
+  background-color: #212121;
+}
+
+#tasklistt::-webkit-scrollbar {
+  display: none; 
+}
